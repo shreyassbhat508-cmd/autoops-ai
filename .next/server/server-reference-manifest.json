@@ -1,0 +1,54 @@
+{
+  "node": {
+    "14a49dc4a82cdf70231714d4447be7344d5b4bcf": {
+      "workers": {
+        "app/(auth)/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/verify-email/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(auth)/login/page": "action-browser",
+        "app/(auth)/signup/page": "action-browser",
+        "app/(auth)/verify-email/page": "action-browser"
+      }
+    },
+    "6892b470eaa53829112650fc674f8aef16b7b045": {
+      "workers": {
+        "app/(auth)/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/verify-email/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(auth)/login/page": "action-browser",
+        "app/(auth)/signup/page": "action-browser",
+        "app/(auth)/verify-email/page": "action-browser"
+      }
+    },
+    "b2e064ea92555e6cbaa2b01fe80dbf1a6df0c58a": {
+      "workers": {
+        "app/(auth)/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/verify-email/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(auth)/login/page": "action-browser",
+        "app/(auth)/signup/page": "action-browser",
+        "app/(auth)/verify-email/page": "action-browser"
+      }
+    },
+    "d138fdae558774f4c7cf6ccb4eec6637cc3d455f": {
+      "workers": {
+        "app/(auth)/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/signup/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/verify-email/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshreyassbhat%2FDownloads%2Fautoops-ai-7%2Flib%2Fauth-actions.ts%22%2C%5B%22resendVerification%22%2C%22signUp%22%2C%22logIn%22%2C%22logOut%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(auth)/login/page": "action-browser",
+        "app/(auth)/signup/page": "action-browser",
+        "app/(auth)/verify-email/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "K0bLJyFtj9gu8+W4OrYQmVhAFA6F+ASbRCdFj1aZzrE="
+}
